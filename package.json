@@ -52,6 +52,7 @@
     "@loopback/rest": "^3.1.0",
     "@loopback/rest-explorer": "^2.0.2",
     "@loopback/service-proxy": "^2.0.2",
+    "loopback-connector-mongodb": "^4.2.0",
     "tslib": "^1.10.0"
   },
   "devDependencies": {

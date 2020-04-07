@@ -1,0 +1,11 @@
+{
+  "name": "MongoCloud",
+  "connector": "mongodb",
+  "url": "mongodb+srv://<username>:<password>@cluster0-dtd7i.mongodb.net/test?retryWrites=true&w=majority",
+  "host": "",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": "",
+  "useNewUrlParser": true
+}
